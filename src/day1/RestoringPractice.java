@@ -12,5 +12,7 @@ public class RestoringPractice {
         // practice 6 done
         // practice 7 done
         // practice 8 done
+        // practice 9 done
+        // practice 10 done
     }
 }
